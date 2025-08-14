@@ -16,5 +16,5 @@
 
 ## 📫 Connect With Me
 - [LinkedIn](https://www.linkedin.com/in/yash-thorat-5898b32a9/)  
-- [GitHub]()  
+- [GitHub](https://github.com/YCThorat02)  
 - 📧 **Email:** thoratyash197@gmail.com   
