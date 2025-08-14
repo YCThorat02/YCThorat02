@@ -1,4 +1,8 @@
-## Hi there 👋
+<h1 align="center">Hi there 👋, I'm Yash</h1>
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?size=24&color=FF5733&center=true&vCenter=true&lines=Data+Scientist;Data+Analyst;Turning+Data+into+Insights" />
+</p>
+
 
 <!--
 **YCThorat02/YCThorat02** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
