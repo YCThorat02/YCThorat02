@@ -14,3 +14,7 @@
 - 🤖 Currently working on Machine Learning to develop practical skills in predictive modeling and analytics.
 
 
+## 📫 Connect With Me
+- [LinkedIn](https://www.linkedin.com/in/yash-thorat-5898b32a9/)  
+- [GitHub]()  
+- 📧 **Email:** thoratyash197@gmail.com   
