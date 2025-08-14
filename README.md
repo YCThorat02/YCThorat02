@@ -1,7 +1,11 @@
-<h1 align="center">Hi there 👋, I'm Yash</h1>
+<h1 align="center">👋 Hi, I'm Yash</h1>
+
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=24&color=FF5733&center=true&vCenter=true&lines=Data+Scientist;Data+Analyst;Turning+Data+into+Insights" />
+  <img src="https://readme-typing-svg.herokuapp.com?size=24&color=FF5733&center=true&vCenter=true&lines=Data+Analyst;Data+Scientist" />
 </p>
+
+<h3 align="center" style="color:#4CAF50;">💼 Data Analyst Intern @ MITCON</h3>
+
 
 
 <!--
