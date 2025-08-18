@@ -8,7 +8,7 @@
 
 ## 🧑‍💻 About Me
 - 🎓 Data Analyst Intern @ MITCON Consultancy & Engineering Services Ltd.
-- 📊 Skilled in **Python**, **SQL**,**Tableau **, **Power BI**, and **Excel**
+- 📊 Skilled in **Python**, **SQL**, **Power BI**, **Tableau** and **Excel**
 - 🏆 Completing a Data Science course at MITCON with an A+ grade.
 - 💡 Passionate about **data-driven decision making**
 - 🤖 Currently working on Machine Learning to develop practical skills in predictive modeling and analytics.
